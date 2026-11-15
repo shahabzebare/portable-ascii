@@ -364,6 +364,17 @@ return [
         '&' => ' w ',
         '+' => ' zayd ',
     ],
+    // Central Kurdish (Sorani)
+    'ckb' => [
+        '=' => ' yeksan ',
+        '%' => ' le sed ',
+        '∑' => ' koy gshti ',
+        '∆' => ' delta ',
+        '∞' => ' bekotayi ',
+        '♥' => ' xoshewisti ',
+        '&' => ' u ',
+        '+' => ' ko ',
+    ],
     // Persian (Farsi)
     'fa' => [
         '=' => ' brabr ',

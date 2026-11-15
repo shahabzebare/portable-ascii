@@ -121,6 +121,8 @@ final class ASCII
 
     const PERSIAN_LANGUAGE_CODE = 'fa';
 
+    const CENTRAL_KURDISH_LANGUAGE_CODE = 'ckb';
+
     const SERBIAN_LANGUAGE_CODE = 'sr';
 
     const SERBIAN_CYRILLIC_LANGUAGE_CODE = 'sr__cyr';
